@@ -1,0 +1,14 @@
+export const experiences = [
+  {
+    id: 1,
+    title: 'Python Developer',
+    company: "AD Infocom System",
+    duration: "(Aug 2024 - July 2025)"
+  },
+  {
+    id: 2,
+    title: "Video Editor & Graphic Designer",
+    company: "Shilsha Technologies",
+    duration: "(Jul 2025 - Present)"
+  }
+]
